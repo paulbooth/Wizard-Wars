@@ -1,0 +1,2253 @@
+Revision: 206
+Author: Erik Kim
+Date: 10:32:02 AM, Wednesday, July 30, 2008
+Message:
+smoke
+----
+Modified : /trunk/wizard-wars/Content/smoke.png
+
+Revision: 205
+Author: Nick Maffei
+Date: 10:31:41 AM, Wednesday, July 30, 2008
+Message:
+Added music/soundfx
+----
+Added : /trunk/wizard-wars/AudioManager.cs
+Deleted : /trunk/wizard-wars/Content/Battle.wav
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/Music
+Added : /trunk/wizard-wars/Content/Music/Battle.wav
+Added : /trunk/wizard-wars/Content/Music/Menu
+Added : /trunk/wizard-wars/Content/Music/Menu/Blubup-Public_D-2.wav
+Added : /trunk/wizard-wars/Content/Music/Menu/Button_C-J_Fairba-8446.wav
+Added : /trunk/wizard-wars/Content/Music/Menu/Dink-Public_D-146.wav
+Added : /trunk/wizard-wars/Content/Music/Menu/The Mystery of the Wizards.wav
+Added : /trunk/wizard-wars/Content/Wizard Wars.xap
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/MenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Deleted : /trunk/wizard-wars/The Mystery of the Wizards.wav
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 204
+Author: Jonathan Paulson
+Date: 10:27:04 AM, Wednesday, July 30, 2008
+Message:
+Added Eric's Stun Stuff
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 203
+Author: Jonathan Paulson
+Date: 10:17:17 AM, Wednesday, July 30, 2008
+Message:
+Rewrote instructions to sound more "in-world"
+----
+Modified : /trunk/wizard-wars/Screens/AirWizardInfoScreen.cs
+Modified : /trunk/wizard-wars/Screens/TimeWizardInfoScreen.cs
+Modified : /trunk/wizard-wars/Screens/earthwizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/firewizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/gravitywizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/portalwizardinfoscreen.cs
+
+Revision: 202
+Author: Erik Kim
+Date: 10:15:48 AM, Wednesday, July 30, 2008
+Message:
+bomb
+----
+Added : /trunk/wizard-wars/Content/bomb.png
+
+Revision: 201
+Author: Paul Booth
+Date: 9:57:57 AM, Wednesday, July 30, 2008
+Message:
+x,y attack
+a jump 
+b punch
+----
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 200
+Author: Ben Jann
+Date: 9:57:05 AM, Wednesday, July 30, 2008
+Message:
+this is the battle music, OK?
+----
+Added : /trunk/wizard-wars/Content/Battle.wav
+
+Revision: 199
+Author: Paul Booth
+Date: 9:46:53 AM, Wednesday, July 30, 2008
+Message:
+ better keys for xbox
+triggers shoot a jump b punch
+----
+Modified : /trunk/wizard-wars/Areas/SmokeArea.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/Wizards/Player.cs
+
+Revision: 198
+Author: Erik Kim
+Date: 9:40:55 AM, Wednesday, July 30, 2008
+Message:
+portal ball and stun effect
+----
+Added : /trunk/wizard-wars/Content/Stun.png
+Added : /trunk/wizard-wars/Content/portalball.png
+
+Revision: 197
+Author: Jonathan Paulson
+Date: 9:35:03 AM, Wednesday, July 30, 2008
+Message:
+Updated Instructions Menu
+----
+Modified : /trunk/wizard-wars/Screens/AirWizardInfoScreen.cs
+Modified : /trunk/wizard-wars/Screens/InstructionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/LoadingScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Added : /trunk/wizard-wars/Screens/TimeWizardInfoScreen.cs
+Modified : /trunk/wizard-wars/Screens/earthwizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/firewizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/gravitywizardinfoscreen.cs
+Modified : /trunk/wizard-wars/Screens/portalwizardinfoscreen.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 196
+Author: Jonathan Paulson
+Date: 3:56:36 PM, Tuesday, July 29, 2008
+Message:
+Changed menus
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+
+Revision: 195
+Author: Erik Kim
+Date: 3:35:52 PM, Tuesday, July 29, 2008
+Message:
+smoke
+----
+Added : /trunk/wizard-wars/Content/smoke.png
+
+Revision: 194
+Author: Jonathan Paulson
+Date: 3:23:12 PM, Tuesday, July 29, 2008
+Message:
+Tells what abilities keys are mapped to
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/InstructionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 193
+Author: Erik Kim
+Date: 3:17:06 PM, Tuesday, July 29, 2008
+Message:
+smoke
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/InstructionsMenuScreen.cs
+
+Revision: 192
+Author: Jonathan Paulson
+Date: 2:46:38 PM, Tuesday, July 29, 2008
+Message:
+More menu stuff
+----
+Modified : /trunk/wizard-wars/Screens/EndingScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 191
+Author: Erik Kim
+Date: 2:40:14 PM, Tuesday, July 29, 2008
+Message:
+INSTRUCTIONS DAMMIT 
+----
+Added : /trunk/wizard-wars/Screens/AirWizardInfoScreen.cs
+Added : /trunk/wizard-wars/Screens/InstructionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Added : /trunk/wizard-wars/Screens/earthwizardinfoscreen.cs
+Added : /trunk/wizard-wars/Screens/firewizardinfoscreen.cs
+Added : /trunk/wizard-wars/Screens/gravitywizardinfoscreen.cs
+Added : /trunk/wizard-wars/Screens/portalwizardinfoscreen.cs
+Added : /trunk/wizard-wars/Screens/timewizardinfo.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 190
+Author: Jonathan Paulson
+Date: 2:32:54 PM, Tuesday, July 29, 2008
+Message:
+Fixed full screen resolution
+----
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 189
+Author: Jonathan Paulson
+Date: 2:31:14 PM, Tuesday, July 29, 2008
+Message:
+Added Resolution options
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 188
+Author: Jonathan Paulson
+Date: 2:10:42 PM, Tuesday, July 29, 2008
+Message:
+Time Wizard Fix
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/ScreenManager/ScreenManager.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Wizards/TimeWizard.cs
+
+Revision: 187
+Author: Paul Booth
+Date: 1:45:20 PM, Tuesday, July 29, 2008
+Message:
+every player can FALCON PUUUNCH gravitysprites - players, coins, etc.
+----
+Modified : /trunk/wizard-wars/Other Game Objects/StationarySprite.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/Wizards/Player.cs
+
+Revision: 186
+Author: Jonathan Paulson
+Date: 1:37:20 PM, Tuesday, July 29, 2008
+Message:
+Beta Version
+----
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/Wizards/Player.cs
+
+Revision: 185
+Author: Nick Maffei
+Date: 1:19:48 PM, Tuesday, July 29, 2008
+Message:
+deleted useless file
+----
+Deleted : /trunk/wizard-wars/Screens/InputState.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 184
+Author: Jonathan Paulson
+Date: 1:09:10 PM, Tuesday, July 29, 2008
+Message:
+Updated Projectiles
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Projectiles/WindBall.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 183
+Author: Jonathan Paulson
+Date: 12:59:19 PM, Tuesday, July 29, 2008
+Message:
+Fixed Smoke
+----
+Modified : /trunk/wizard-wars/Content/timebox.png
+Modified : /trunk/wizard-wars/Projectiles/smokeBall.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 182
+Author: Paul Booth
+Date: 11:59:23 AM, Tuesday, July 29, 2008
+Message:
+fixed errors with particle effects on smokeballs
+----
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 181
+Author: Jonathan Paulson
+Date: 11:48:43 AM, Tuesday, July 29, 2008
+Message:
+Fixed all the projectiles
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 180
+Author: Jonathan Paulson
+Date: 11:31:52 AM, Tuesday, July 29, 2008
+Message:
+Fixed everything Eric screwed up
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/SpriteFont3.spritefont
+Added : /trunk/wizard-wars/Content/red.JPG
+Added : /trunk/wizard-wars/Screens/InputState.cs
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/Wizards/fireWizard.cs
+
+Revision: 179
+Author: Paul Booth
+Date: 11:26:59 AM, Tuesday, July 29, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Projectiles/smokeBall.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Deleted : /trunk/wizard-wars/Wizards/smokeBall.cs
+
+Revision: 178
+Author: Paul Booth
+Date: 11:24:27 AM, Tuesday, July 29, 2008
+Message:
+smoke
+----
+Modified : /trunk/wizard-wars/Areas/Area.cs
+Added : /trunk/wizard-wars/Areas/SmokeArea.cs
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Projectiles/Particles.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/Wizards/Player.cs
+Modified : /trunk/wizard-wars/Wizards/fireWizard.cs
+Added : /trunk/wizard-wars/Wizards/smokeBall.cs
+
+Revision: 177
+Author: Erik Kim
+Date: 11:23:21 AM, Tuesday, July 29, 2008
+Message:
+portals/timebox
+----
+Added : /trunk/wizard-wars/Content/portal1.png
+Added : /trunk/wizard-wars/Content/portal2.png
+Added : /trunk/wizard-wars/Content/timebox.png
+
+Revision: 176
+Author: Erik Kim
+Date: 11:22:11 AM, Tuesday, July 29, 2008
+Message:
+timebox
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 175
+Author: Jonathan Paulson
+Date: 11:05:45 AM, Tuesday, July 29, 2008
+Message:
+More Menu Options
+----
+Modified : /trunk/wizard-wars/Projectiles/TStopBall.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 174
+Author: Jonathan Paulson
+Date: 10:45:24 AM, Tuesday, July 29, 2008
+Message:
+More Options
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Screens/EndingScreen.cs
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 173
+Author: Jonathan Paulson
+Date: 10:21:28 AM, Tuesday, July 29, 2008
+Message:
+Windball
+----
+Added : /trunk/wizard-wars/Content/windball.png
+
+Revision: 172
+Author: Erik Kim
+Date: 10:09:13 AM, Tuesday, July 29, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 171
+Author: Ben Jann
+Date: 10:05:44 AM, Tuesday, July 29, 2008
+Message:
+Changed the way you set the FXtextures. Call the projectille followed by setTexture. They're all already being called, and are using the default fireball FX texture. 
+----
+Modified : /trunk/wizard-wars/Projectiles/HeavyBall.cs
+Modified : /trunk/wizard-wars/Projectiles/LightningBall.cs
+Modified : /trunk/wizard-wars/Projectiles/PortalBall.cs
+Modified : /trunk/wizard-wars/Projectiles/Projectile.cs
+Modified : /trunk/wizard-wars/Projectiles/ReverseBall.cs
+Modified : /trunk/wizard-wars/Projectiles/SpeedBall.cs
+Modified : /trunk/wizard-wars/Projectiles/TStopBall.cs
+Modified : /trunk/wizard-wars/Projectiles/WindBall.cs
+Modified : /trunk/wizard-wars/Projectiles/fireball.cs
+Modified : /trunk/wizard-wars/Projectiles/pitball.cs
+Modified : /trunk/wizard-wars/Projectiles/stalagball.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/Wizards/AirWizard.cs
+Modified : /trunk/wizard-wars/Wizards/GravityWizard.cs
+Modified : /trunk/wizard-wars/Wizards/Player.cs
+Modified : /trunk/wizard-wars/Wizards/PortalWizard.cs
+Modified : /trunk/wizard-wars/Wizards/TimeWizard.cs
+Modified : /trunk/wizard-wars/Wizards/earthWizard.cs
+Modified : /trunk/wizard-wars/Wizards/fireWizard.cs
+
+Revision: 170
+Author: Erik Kim
+Date: 9:55:28 AM, Tuesday, July 29, 2008
+Message:
+portals
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+
+Revision: 169
+Author: Jonathan Paulson
+Date: 9:53:35 AM, Tuesday, July 29, 2008
+Message:
+More Menu Stuff
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/MenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+
+Revision: 168
+Author: Jonathan Paulson
+Date: 9:42:08 AM, Tuesday, July 29, 2008
+Message:
+New Platform Generation
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Projectiles/WindBall.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 167
+Author: Jonathan Paulson
+Date: 9:15:26 AM, Tuesday, July 29, 2008
+Message:
+More Menu Stuff
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/ScreenManager/InputState.cs
+
+Revision: 166
+Author: Jonathan Paulson
+Date: 9:06:32 AM, Tuesday, July 29, 2008
+Message:
+Menus Left and Right
+----
+Modified : /trunk/wizard-wars/ScreenManager/InputState.cs
+Modified : /trunk/wizard-wars/Screens/MenuEntry.cs
+Modified : /trunk/wizard-wars/Screens/MenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+
+Revision: 165
+Author: Jonathan Paulson
+Date: 8:54:03 AM, Tuesday, July 29, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Screens/BackgroundScreen.cs
+
+Revision: 164
+Author: Nick Maffei
+Date: 11:45:44 PM, Sunday, July 27, 2008
+Message:
+Added default score, changed default player 2's controls to WASD, changed exit message to use our game name, and fixed a random break point in the projectile class.
+----
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+
+Revision: 163
+Author: Jonathan Paulson
+Date: 4:34:00 PM, Sunday, July 27, 2008
+Message:
+Can choose max score from menu
+----
+Modified : /trunk/wizard-wars/Screens/EndingScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+
+Revision: 162
+Author: Erik Kim
+Date: 4:32:02 PM, Sunday, July 27, 2008
+Message:
+menu background 
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/background1.jpg
+
+Revision: 161
+Author: Jonathan Paulson
+Date: 4:05:18 PM, Sunday, July 27, 2008
+Message:
+Added Ending Screen
+----
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/BackgroundScreen.cs
+Added : /trunk/wizard-wars/Screens/EndingScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 160
+Author: Jonathan Paulson
+Date: 3:00:24 PM, Sunday, July 27, 2008
+Message:
+More Menu Stuff
+----
+Modified : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+
+Revision: 159
+Author: Jonathan Paulson
+Date: 11:20:27 AM, Sunday, July 27, 2008
+Message:
+Can select class from options screen; assorted minor changes
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/gradient.jpg
+Modified : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Modified : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 158
+Author: Jonathan Paulson
+Date: 1:06:57 AM, Sunday, July 27, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 157
+Author: Jonathan Paulson
+Date: 1:06:39 AM, Sunday, July 27, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/TStopArea.cs
+Deleted : /trunk/wizard-wars/TStopBall.cs
+Deleted : /trunk/wizard-wars/TimeWizard.cs
+Deleted : /trunk/wizard-wars/WindArea.cs
+Deleted : /trunk/wizard-wars/WindBall.cs
+
+Revision: 156
+Author: Jonathan Paulson
+Date: 1:06:17 AM, Sunday, July 27, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/Particles.cs
+Deleted : /trunk/wizard-wars/Platform.cs
+Deleted : /trunk/wizard-wars/Player.cs
+Deleted : /trunk/wizard-wars/PortalArea.cs
+Deleted : /trunk/wizard-wars/PortalBall.cs
+Deleted : /trunk/wizard-wars/PortalWizard.cs
+Deleted : /trunk/wizard-wars/Program.cs
+Deleted : /trunk/wizard-wars/Projectile.cs
+Deleted : /trunk/wizard-wars/ReverseArea.cs
+Deleted : /trunk/wizard-wars/ReverseBall.cs
+Deleted : /trunk/wizard-wars/SpeedArea.cs
+Deleted : /trunk/wizard-wars/SpeedBall.cs
+Deleted : /trunk/wizard-wars/Sprite.cs
+Deleted : /trunk/wizard-wars/StationarySprite.cs
+Deleted : /trunk/wizard-wars/pitball.cs
+Deleted : /trunk/wizard-wars/stalagball.cs
+
+Revision: 155
+Author: Jonathan Paulson
+Date: 1:05:46 AM, Sunday, July 27, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/GravitySprite.cs
+Deleted : /trunk/wizard-wars/GravityWizard.cs
+Deleted : /trunk/wizard-wars/Ground.cs
+Deleted : /trunk/wizard-wars/HeavyArea.cs
+Deleted : /trunk/wizard-wars/HeavyBall.cs
+Deleted : /trunk/wizard-wars/LightningBall.cs
+
+Revision: 154
+Author: Jonathan Paulson
+Date: 1:05:18 AM, Sunday, July 27, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/AirWizard.cs
+Deleted : /trunk/wizard-wars/Area.cs
+Deleted : /trunk/wizard-wars/Direction.cs
+Deleted : /trunk/wizard-wars/Dweomer.cs
+Deleted : /trunk/wizard-wars/earthWizard.cs
+Deleted : /trunk/wizard-wars/fireWizard.cs
+Deleted : /trunk/wizard-wars/fireball.cs
+
+Revision: 153
+Author: Jonathan Paulson
+Date: 1:04:05 AM, Sunday, July 27, 2008
+Message:
+One more folder to clean up the project
+----
+Added : /trunk/wizard-wars/Other Game Objects
+Added : /trunk/wizard-wars/Other Game Objects/Dweomer.cs
+Added : /trunk/wizard-wars/Other Game Objects/Ground.cs
+Added : /trunk/wizard-wars/Other Game Objects/Platform.cs
+Added : /trunk/wizard-wars/Other Game Objects/StationarySprite.cs
+Added : /trunk/wizard-wars/Wizards/Direction.cs
+
+Revision: 152
+Author: Jonathan Paulson
+Date: 1:02:29 AM, Sunday, July 27, 2008
+Message:
+We have a menu!! That works!! Code organized into folders
+----
+Added : /trunk/wizard-wars/Areas
+Added : /trunk/wizard-wars/Areas/Area.cs
+Added : /trunk/wizard-wars/Areas/HeavyArea.cs
+Added : /trunk/wizard-wars/Areas/PortalArea.cs
+Added : /trunk/wizard-wars/Areas/ReverseArea.cs
+Added : /trunk/wizard-wars/Areas/SpeedArea.cs
+Added : /trunk/wizard-wars/Areas/TStopArea.cs
+Added : /trunk/wizard-wars/Areas/WindArea.cs
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/SpriteFont2.spritefont
+Added : /trunk/wizard-wars/Content/blank.jpg
+Added : /trunk/wizard-wars/Menu.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Added : /trunk/wizard-wars/Projectiles
+Added : /trunk/wizard-wars/Projectiles/HeavyBall.cs
+Added : /trunk/wizard-wars/Projectiles/LightningBall.cs
+Added : /trunk/wizard-wars/Projectiles/Particles.cs
+Added : /trunk/wizard-wars/Projectiles/PortalBall.cs
+Added : /trunk/wizard-wars/Projectiles/Projectile.cs
+Added : /trunk/wizard-wars/Projectiles/ReverseBall.cs
+Added : /trunk/wizard-wars/Projectiles/SpeedBall.cs
+Added : /trunk/wizard-wars/Projectiles/TStopBall.cs
+Added : /trunk/wizard-wars/Projectiles/WindBall.cs
+Added : /trunk/wizard-wars/Projectiles/fireball.cs
+Added : /trunk/wizard-wars/Projectiles/pitball.cs
+Added : /trunk/wizard-wars/Projectiles/stalagball.cs
+Added : /trunk/wizard-wars/ScreenManager
+Added : /trunk/wizard-wars/ScreenManager/GameScreen.cs
+Added : /trunk/wizard-wars/ScreenManager/InputState.cs
+Added : /trunk/wizard-wars/ScreenManager/ScreenManager.cs
+Added : /trunk/wizard-wars/Screens
+Added : /trunk/wizard-wars/Screens/BackgroundScreen.cs
+Added : /trunk/wizard-wars/Screens/LoadingScreen.cs
+Added : /trunk/wizard-wars/Screens/MainMenuScreen.cs
+Added : /trunk/wizard-wars/Screens/MenuEntry.cs
+Added : /trunk/wizard-wars/Screens/MenuScreen.cs
+Added : /trunk/wizard-wars/Screens/MessageBoxScreen.cs
+Added : /trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+Added : /trunk/wizard-wars/Screens/PauseMenuScreen.cs
+Added : /trunk/wizard-wars/Screens/WizardWars.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Added : /trunk/wizard-wars/WizardWars.csproj
+Added : /trunk/wizard-wars/Wizards
+Added : /trunk/wizard-wars/Wizards/AirWizard.cs
+Added : /trunk/wizard-wars/Wizards/GravitySprite.cs
+Added : /trunk/wizard-wars/Wizards/GravityWizard.cs
+Added : /trunk/wizard-wars/Wizards/Player.cs
+Added : /trunk/wizard-wars/Wizards/PortalWizard.cs
+Added : /trunk/wizard-wars/Wizards/TimeWizard.cs
+Added : /trunk/wizard-wars/Wizards/earthWizard.cs
+Added : /trunk/wizard-wars/Wizards/fireWizard.cs
+
+Revision: 151
+Author: Jonathan Paulson
+Date: 12:19:21 AM, Sunday, July 27, 2008
+Message:
+Kinda added portal wizard
+----
+Added : /trunk/wizard-wars/PortalArea.cs
+Added : /trunk/wizard-wars/PortalBall.cs
+Added : /trunk/wizard-wars/PortalWizard.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 150
+Author: Jonathan Paulson
+Date: 11:18:21 PM, Friday, July 25, 2008
+Message:
+Leaves, a new dweomer from Alex
+----
+Modified : /trunk/wizard-wars/Content/dweomer.png
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 149
+Author: Jonathan Paulson
+Date: 3:56:38 PM, Friday, July 25, 2008
+Message:
+Leaves look pretty
+----
+Modified : /trunk/wizard-wars/Area.cs
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/SpeedArea.cs
+Modified : /trunk/wizard-wars/TStopArea.cs
+Modified : /trunk/wizard-wars/WindArea.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 148
+Author: Erik Kim
+Date: 3:44:10 PM, Friday, July 25, 2008
+Message:
+Smoke and menu pic
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/menu.jpg
+Added : /trunk/wizard-wars/Content/smoke1.png
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 147
+Author: Paul Booth
+Date: 2:51:10 PM, Friday, July 25, 2008
+Message:
+can change projectile ballistics
+----
+Modified : /trunk/wizard-wars/AirWizard.cs
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/TimeWizard.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/earthWizard.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 146
+Author: Nick Maffei
+Date: 2:48:54 PM, Friday, July 25, 2008
+Message:
+Added leaves
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/leaf1.png
+Added : /trunk/wizard-wars/Content/leaf2.png
+Added : /trunk/wizard-wars/Content/leaf3.png
+Added : /trunk/wizard-wars/Content/leaf4.png
+
+Revision: 145
+Author: Nick Maffei
+Date: 2:42:09 PM, Friday, July 25, 2008
+Message:
+Fixed curve redo
+----
+Modified : /trunk/wizard-wars/Platform.cs
+
+Revision: 144
+Author: Nick Maffei
+Date: 2:39:38 PM, Friday, July 25, 2008
+Message:
+Added clock pic, deleted old fireball pic
+----
+Modified : /trunk/wizard-wars/Content
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/clock.png
+Deleted : /trunk/wizard-wars/Content/fireballtest.bmp
+
+Revision: 143
+Author: Jonathan Paulson
+Date: 2:22:09 PM, Friday, July 25, 2008
+Message:
+Took out water.png
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 142
+Author: Jonathan Paulson
+Date: 2:20:52 PM, Friday, July 25, 2008
+Message:
+Dweomer image
+----
+Added : /trunk/wizard-wars/Content/dweomer.png
+
+Revision: 141
+Author: Ben Jann
+Date: 2:18:30 PM, Friday, July 25, 2008
+Message:
+this is the music for the main menu?
+----
+Added : /trunk/wizard-wars/The Mystery of the Wizards.wav
+
+Revision: 140
+Author: Jonathan Paulson
+Date: 2:14:53 PM, Friday, July 25, 2008
+Message:
+XBOX Controls!
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 139
+Author: Jonathan Paulson
+Date: 1:44:15 PM, Friday, July 25, 2008
+Message:
+Our game is awesome!
+----
+Modified : /trunk/wizard-wars
+Modified : /trunk/wizard-wars/Content
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 138
+Author: Jonathan Paulson
+Date: 11:17:46 AM, Friday, July 25, 2008
+Message:
+Minor time mage changes
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 137
+Author: Jonathan Paulson
+Date: 11:08:58 AM, Friday, July 25, 2008
+Message:
+More Time Wizard Stuff
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 136
+Author: Jonathan Paulson
+Date: 11:01:46 AM, Friday, July 25, 2008
+Message:
+Added Time Wizard!!!
+----
+Modified : /trunk/wizard-wars/AirWizard.cs
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Added : /trunk/wizard-wars/SpeedArea.cs
+Added : /trunk/wizard-wars/SpeedBall.cs
+Added : /trunk/wizard-wars/TStopArea.cs
+Added : /trunk/wizard-wars/TStopBall.cs
+Added : /trunk/wizard-wars/TimeWizard.cs
+Modified : /trunk/wizard-wars/WindArea.cs
+Modified : /trunk/wizard-wars/WindBall.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 135
+Author: Paul Booth
+Date: 10:35:41 AM, Friday, July 25, 2008
+Message:
+can't go through ground, fireball has static image, players have keyspressed
+----
+Modified : /trunk/wizard-wars/AirWizard.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/earthWizard.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 134
+Author: Nick Maffei
+Date: 9:58:33 AM, Friday, July 25, 2008
+Message:
+Changed earthWizard to EarthWizard and fixed fireballs
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/earthWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 133
+Author: Ben Jann
+Date: 9:44:53 AM, Friday, July 25, 2008
+Message:
+fewer particles on the gravs
+----
+Modified : /trunk/wizard-wars/Area.cs
+Modified : /trunk/wizard-wars/HeavyArea.cs
+Modified : /trunk/wizard-wars/ReverseArea.cs
+Modified : /trunk/wizard-wars/WindArea.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 132
+Author: Paul Booth
+Date: 9:40:21 AM, Friday, July 25, 2008
+Message:
+can't walk through the ground
+can in platforms though
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 131
+Author: Jonathan Paulson
+Date: 9:40:28 PM, Thursday, July 24, 2008
+Message:
+Balancing of Fire and Air Mages ; Lightning no longer stuns air mages.
+----
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 130
+Author: Nick Maffei
+Date: 8:05:27 PM, Thursday, July 24, 2008
+Message:
+FINALLY FIXED PROJECTILE MOTION
+----
+Modified : /trunk/wizard-wars/Projectile.cs
+
+Revision: 129
+Author: Paul Booth
+Date: 7:11:21 PM, Thursday, July 24, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 128
+Author: Jonathan Paulson
+Date: 3:58:05 PM, Thursday, July 24, 2008
+Message:
+Improved stun, scoreboard
+----
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 127
+Author: Paul Booth
+Date: 3:54:04 PM, Thursday, July 24, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 126
+Author: Ben Jann
+Date: 3:40:15 PM, Thursday, July 24, 2008
+Message:
+timers on areas now make them disappear after a while
+----
+Modified : /trunk/wizard-wars/Area.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 125
+Author: Nick Maffei
+Date: 3:35:42 PM, Thursday, July 24, 2008
+Message:
+fixed some stuff John broke
+----
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 124
+Author: Jonathan Paulson
+Date: 3:33:08 PM, Thursday, July 24, 2008
+Message:
+Deprecated
+----
+Deleted : /trunk/wizard-wars/GravityBall.cs
+
+Revision: 123
+Author: Jonathan Paulson
+Date: 3:32:33 PM, Thursday, July 24, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/ReverseBall.cs
+
+Revision: 122
+Author: Jonathan Paulson
+Date: 3:32:00 PM, Thursday, July 24, 2008
+Message:
+Changed name of gravity ball
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/HeavyBall.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 121
+Author: Nick Maffei
+Date: 3:31:45 PM, Thursday, July 24, 2008
+Message:
+fixed pic
+----
+Modified : /trunk/wizard-wars/Content/gravityball.png
+
+Revision: 120
+Author: Nick Maffei
+Date: 3:28:37 PM, Thursday, July 24, 2008
+Message:
+gravityball pic added
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/gravityball.png
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 119
+Author: Ben Jann
+Date: 3:22:32 PM, Thursday, July 24, 2008
+Message:
+fixed wind direction and some other stuff I think
+----
+Modified : /trunk/wizard-wars/Area.cs
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/HeavyArea.cs
+Modified : /trunk/wizard-wars/ReverseArea.cs
+Modified : /trunk/wizard-wars/WindArea.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 118
+Author: Jonathan Paulson
+Date: 3:17:11 PM, Thursday, July 24, 2008
+Message:
+Lightning Stuns Stuff More
+----
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 117
+Author: Jonathan Paulson
+Date: 2:55:58 PM, Thursday, July 24, 2008
+Message:
+Lightning stuns people
+----
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 116
+Author: Ben Jann
+Date: 2:50:05 PM, Thursday, July 24, 2008
+Message:
+changed the way areas work. Changed a lot, so check your code.
+----
+Added : /trunk/wizard-wars/Area.cs
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/HeavyArea.cs
+Modified : /trunk/wizard-wars/HeavyBall.cs
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/ReverseArea.cs
+Modified : /trunk/wizard-wars/WindArea.cs
+Modified : /trunk/wizard-wars/WindBall.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 115
+Author: Jonathan Paulson
+Date: 2:29:16 PM, Thursday, July 24, 2008
+Message:
+Fixed Stunning
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 114
+Author: Jonathan Paulson
+Date: 2:25:46 PM, Thursday, July 24, 2008
+Message:
+Players can be stunned
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 113
+Author: Paul Booth
+Date: 2:22:12 PM, Thursday, July 24, 2008
+Message:
+fire ball explosion for players, dweomer, projectiles
+OPed a little
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 112
+Author: Paul Booth
+Date: 2:18:35 PM, Thursday, July 24, 2008
+Message:
+fire explosions
+still OP
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 111
+Author: Jonathan Paulson
+Date: 1:50:00 PM, Thursday, July 24, 2008
+Message:
+Lightning Mage Looks Hacked
+----
+Modified : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 110
+Author: Nick Maffei
+Date: 1:33:27 PM, Thursday, July 24, 2008
+Message:
+update dirtball
+----
+Modified : /trunk/wizard-wars/Content/dirtball.PNG
+
+Revision: 109
+Author: Jonathan Paulson
+Date: 1:28:57 PM, Thursday, July 24, 2008
+Message:
+Slightly Better Earth Wizard and other assorted changes
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+Modified : /trunk/wizard-wars/pitball.cs
+Modified : /trunk/wizard-wars/stalagball.cs
+
+Revision: 108
+Author: Nick Maffei
+Date: 1:28:54 PM, Thursday, July 24, 2008
+Message:
+added lighningball and dirtball
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Content/dirtball.PNG
+Added : /trunk/wizard-wars/Content/lightningball.png
+
+Revision: 107
+Author: Ben Jann
+Date: 1:14:19 PM, Thursday, July 24, 2008
+Message:
+down arrows now work
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 106
+Author: Ben Jann
+Date: 1:11:07 PM, Thursday, July 24, 2008
+Message:
+Now heavy areas exist, and now particle effects are improved a little bit
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Added : /trunk/wizard-wars/HeavyArea.cs
+Added : /trunk/wizard-wars/HeavyBall.cs
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 105
+Author: Paul Booth
+Date: 11:50:31 AM, Thursday, July 24, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 104
+Author: Nick Maffei
+Date: 11:46:57 AM, Thursday, July 24, 2008
+Message:
+adds reverse arrow png
+----
+Added : /trunk/wizard-wars/Content/reversearrow.png
+
+Revision: 103
+Author: Jonathan Paulson
+Date: 11:33:36 AM, Thursday, July 24, 2008
+Message:
+Fixed Projectile Wall Bouncing
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+
+Revision: 102
+Author: Jonathan Paulson
+Date: 11:23:46 AM, Thursday, July 24, 2008
+Message:
+Wind Wizard Power!!!!!!!!!!!
+----
+Added : /trunk/wizard-wars/AirWizard.cs
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Added : /trunk/wizard-wars/LightningBall.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Added : /trunk/wizard-wars/WindArea.cs
+Added : /trunk/wizard-wars/WindBall.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 101
+Author: Nick Maffei
+Date: 11:21:37 AM, Thursday, July 24, 2008
+Message:
+Fixed pictures
+----
+Modified : /trunk/wizard-wars/Content/arrow.png
+Modified : /trunk/wizard-wars/Content/fireball.png
+Modified : /trunk/wizard-wars/Content/lightning.png
+
+Revision: 100
+Author: Nick Maffei
+Date: 11:01:16 AM, Thursday, July 24, 2008
+Message:
+projectile images fixed...mostly
+----
+Modified : /trunk/wizard-wars/Projectile.cs
+
+Revision: 99
+Author: Ben Jann
+Date: 10:48:41 AM, Thursday, July 24, 2008
+Message:
+reverse areas are now a thing. Heavy areas aren't there yet
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Added : /trunk/wizard-wars/ReverseArea.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 98
+Author: Erik Kim
+Date: 10:12:57 AM, Thursday, July 24, 2008
+Message:
+WIZARD!
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/wizard.png
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 97
+Author: Jonathan Paulson
+Date: 9:21:08 AM, Thursday, July 24, 2008
+Message:
+Improved Gravity Physics
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 96
+Author: Jonathan Paulson
+Date: 3:19:43 PM, Wednesday, July 23, 2008
+Message:
+The Demo Version as of 7/23
+----
+Modified : /trunk/wizard-wars/Platform.cs
+
+Revision: 95
+Author: Nick Maffei
+Date: 3:01:03 PM, Wednesday, July 23, 2008
+Message:
+fixedish projectiles
+----
+Modified : /trunk/wizard-wars/Projectile.cs
+
+Revision: 94
+Author: Jonathan Paulson
+Date: 2:38:43 PM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/earthWizard.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+Modified : /trunk/wizard-wars/pitball.cs
+Modified : /trunk/wizard-wars/stalagball.cs
+
+Revision: 93
+Author: Nick Maffei
+Date: 2:31:21 PM, Wednesday, July 23, 2008
+Message:
+Adds (temp)dirtball pic
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/dirtball.PNG
+
+Revision: 92
+Author: Jonathan Paulson
+Date: 2:20:44 PM, Wednesday, July 23, 2008
+Message:
+Added power to projectiles
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/earthWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+Modified : /trunk/wizard-wars/pitball.cs
+Modified : /trunk/wizard-wars/stalagball.cs
+
+Revision: 91
+Author: Ben Jann
+Date: 2:15:15 PM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 90
+Author: Ben Jann
+Date: 2:11:49 PM, Wednesday, July 23, 2008
+Message:
+ahem
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Added : /trunk/wizard-wars/earthWizard.cs
+Added : /trunk/wizard-wars/pitball.cs
+Added : /trunk/wizard-wars/stalagball.cs
+
+Revision: 89
+Author: Jonathan Paulson
+Date: 1:46:45 PM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 88
+Author: Erik Kim
+Date: 1:36:05 PM, Wednesday, July 23, 2008
+Message:
+arrow 
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/arrow.png
+
+Revision: 87
+Author: Paul Booth
+Date: 1:34:49 PM, Wednesday, July 23, 2008
+Message:
+gravity field not act as smoke
+doesn't hide player
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 86
+Author: Paul Booth
+Date: 1:27:59 PM, Wednesday, July 23, 2008
+Message:
+explode at platform base
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 85
+Author: Nick Maffei
+Date: 1:23:15 PM, Wednesday, July 23, 2008
+Message:
+Allows for projectile rotation
+----
+Modified : /trunk/wizard-wars/Projectile.cs
+
+Revision: 84
+Author: Jonathan Paulson
+Date: 1:03:01 PM, Wednesday, July 23, 2008
+Message:
+Added more gravity balls
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+
+Revision: 83
+Author: Jonathan Paulson
+Date: 1:01:27 PM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 82
+Author: Jonathan Paulson
+Date: 11:58:54 AM, Wednesday, July 23, 2008
+Message:
+Added Gravity Wizard
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/GravityBall.cs
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 81
+Author: Nick Maffei
+Date: 11:25:24 AM, Wednesday, July 23, 2008
+Message:
+Projectiles now commit suicide at the bottom of the screen
+----
+Modified : /trunk/wizard-wars/Projectile.cs
+
+Revision: 80
+Author: Jonathan Paulson
+Date: 11:17:46 AM, Wednesday, July 23, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/GravityWizard.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+
+Revision: 79
+Author: Jonathan Paulson
+Date: 11:10:40 AM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/fireWizard.cs
+
+Revision: 78
+Author: Ben Jann
+Date: 11:02:20 AM, Wednesday, July 23, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 77
+Author: Ben Jann
+Date: 10:41:58 AM, Wednesday, July 23, 2008
+Message:
+wizards are now separate
+----
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Added : /trunk/wizard-wars/fireWizard.cs
+Modified : /trunk/wizard-wars/fireball.cs
+
+Revision: 76
+Author: Jonathan Paulson
+Date: 9:55:20 AM, Wednesday, July 23, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Dweomer.cs
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 75
+Author: Paul Booth
+Date: 9:35:39 AM, Wednesday, July 23, 2008
+Message:
+hit platform base with fire ball= just die
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 74
+Author: Jonathan Paulson
+Date: 4:02:25 PM, Tuesday, July 22, 2008
+Message:
+Changed the structure of collision code
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 73
+Author: Ben Jann
+Date: 3:51:16 PM, Tuesday, July 22, 2008
+Message:
+Moved the checking for hit and damaging terrain into the projectile class
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 72
+Author: Paul Booth
+Date: 3:43:34 PM, Tuesday, July 22, 2008
+Message:
+Completed implementation of background image
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 71
+Author: Erik Kim
+Date: 3:30:10 PM, Tuesday, July 22, 2008
+Message:
+background
+----
+Added : /trunk/wizard-wars/Content/background.jpg
+
+Revision: 70
+Author: Paul Booth
+Date: 3:27:34 PM, Tuesday, July 22, 2008
+Message:
+change damage to platform so you can set the amount of damage taken
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 69
+Author: Paul Booth
+Date: 3:15:35 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 68
+Author: Jonathan Paulson
+Date: 3:03:44 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 67
+Author: Ben Jann
+Date: 3:00:39 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 66
+Author: Ben Jann
+Date: 2:51:58 PM, Tuesday, July 22, 2008
+Message:
+RAWR particle effects
+----
+Modified : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 65
+Author: Jonathan Paulson
+Date: 2:41:19 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 64
+Author: Erik Kim
+Date: 2:30:41 PM, Tuesday, July 22, 2008
+Message:
+Fireball, Lighning, Waterball pics
+----
+Modified : /trunk/wizard-wars/Content/fireball.png
+Added : /trunk/wizard-wars/Content/lightning.png
+Added : /trunk/wizard-wars/Content/waterball.png
+
+Revision: 63
+Author: Jonathan Paulson
+Date: 2:29:55 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Direction.cs
+
+Revision: 62
+Author: Jonathan Paulson
+Date: 2:28:29 PM, Tuesday, July 22, 2008
+Message:
+Fireballs kill grass
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 61
+Author: Ben Jann
+Date: 2:12:27 PM, Tuesday, July 22, 2008
+Message:
+man
+----
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 60
+Author: Nick Maffei
+Date: 2:07:54 PM, Tuesday, July 22, 2008
+Message:
+Fix for fireball picture
+----
+Modified : /trunk/wizard-wars/Content/fireball.png
+
+Revision: 59
+Author: Nick Maffei
+Date: 2:02:40 PM, Tuesday, July 22, 2008
+Message:
+Fixes fireballs - hopefully
+----
+Added : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 58
+Author: Nick Maffei
+Date: 2:02:23 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Deleted : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 57
+Author: Nick Maffei
+Date: 1:55:21 PM, Tuesday, July 22, 2008
+Message:
+don't need it
+----
+Deleted : /trunk/wizard-wars/Content/fireball.bmp
+
+Revision: 56
+Author: Jonathan Paulson
+Date: 1:54:48 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Platform.cs
+
+Revision: 55
+Author: Jonathan Paulson
+Date: 1:53:03 PM, Tuesday, July 22, 2008
+Message:
+Fixed Platforms - hopefully
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 54
+Author: Erik Kim
+Date: 1:42:43 PM, Tuesday, July 22, 2008
+Message:
+grass
+----
+Modified : /trunk/wizard-wars/Content/grass.jpg
+
+Revision: 53
+Author: Erik Kim
+Date: 1:39:12 PM, Tuesday, July 22, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Content/fireball.png
+
+Revision: 52
+Author: Nick Maffei
+Date: 1:33:08 PM, Tuesday, July 22, 2008
+Message:
+Fixed some minor junk
+----
+Deleted : /trunk/wizard-wars/Content/fireball.gif
+
+Revision: 51
+Author: Ben Jann
+Date: 1:30:24 PM, Tuesday, July 22, 2008
+Message:
+shoot the fireballs. Eric's pics were corrupt 
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/fireball.bmp
+Modified : /trunk/wizard-wars/Content/grass.jpg
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 50
+Author: Erik Kim
+Date: 1:22:05 PM, Tuesday, July 22, 2008
+Message:
+Fireballs!
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/fireball.gif
+
+Revision: 49
+Author: Erik Kim
+Date: 1:18:26 PM, Tuesday, July 22, 2008
+Message:
+New Grass
+----
+Modified : /trunk/wizard-wars/Content/grass.jpg
+
+Revision: 48
+Author: Jonathan Paulson
+Date: 11:50:14 AM, Tuesday, July 22, 2008
+Message:
+Newest Version
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 47
+Author: Ben Jann
+Date: 11:47:51 AM, Tuesday, July 22, 2008
+Message:
+ADDED FIREBALL AND PARTICLES AND SOME PICTURES
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/fireballtest.bmp
+Added : /trunk/wizard-wars/Content/fireeffect.bmp
+Added : /trunk/wizard-wars/Content/iceeffect.bmp
+Added : /trunk/wizard-wars/Content/watereffect.bmp
+Added : /trunk/wizard-wars/Particles.cs
+Modified : /trunk/wizard-wars/Projectile.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Added : /trunk/wizard-wars/fireball.cs
+
+Revision: 46
+Author: Erik Kim
+Date: 11:41:24 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Content/grass.jpg
+
+Revision: 45
+Author: Paul Booth
+Date: 11:27:07 AM, Tuesday, July 22, 2008
+Message:
+cleaned up code
+----
+Modified : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 44
+Author: Paul Booth
+Date: 11:24:22 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 43
+Author: Erik Kim
+Date: 10:50:36 AM, Tuesday, July 22, 2008
+Message:
+Platform images - brick, wood, metal
+----
+Modified : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/brickplatform copy.jpg
+Added : /trunk/wizard-wars/Content/metallic platform copy.jpg
+Added : /trunk/wizard-wars/Content/wooden platform.jpg
+
+Revision: 42
+Author: Jonathan Paulson
+Date: 10:47:22 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 41
+Author: Jonathan Paulson
+Date: 10:32:38 AM, Tuesday, July 22, 2008
+Message:
+More Platform Stuff; added Ground Singleton
+----
+Added : /trunk/wizard-wars/Ground.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 40
+Author: Jonathan Paulson
+Date: 10:23:15 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 39
+Author: Jonathan Paulson
+Date: 10:11:35 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 38
+Author: Jonathan Paulson
+Date: 9:56:11 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 37
+Author: Jonathan Paulson
+Date: 9:51:46 AM, Tuesday, July 22, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 36
+Author: Nick Maffei
+Date: 7:49:51 AM, Tuesday, July 22, 2008
+Message:
+this either
+----
+Deleted : /trunk/wizard-wars/Content/Thumbs.db
+
+Revision: 35
+Author: Nick Maffei
+Date: 7:49:38 AM, Tuesday, July 22, 2008
+Message:
+These are not important as well
+----
+Deleted : /trunk/wizard-wars/Content/bin
+Deleted : /trunk/wizard-wars/Content/obj
+
+Revision: 34
+Author: Nick Maffei
+Date: 7:49:17 AM, Tuesday, July 22, 2008
+Message:
+Also not important
+----
+Deleted : /trunk/wizard-wars/obj
+
+Revision: 33
+Author: Nick Maffei
+Date: 7:49:06 AM, Tuesday, July 22, 2008
+Message:
+Not important..
+----
+Deleted : /trunk/wizard-wars/bin
+
+Revision: 32
+Author: Jonathan Paulson
+Date: 11:00:23 PM, Monday, July 21, 2008
+Message:
+Minor change in platform physics
+----
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 31
+Author: Jonathan Paulson
+Date: 10:57:28 PM, Monday, July 21, 2008
+Message:
+Better integration of platforms as stationary sprites
+----
+Modified : /trunk/wizard-wars/Content/obj/x86/Debug/ContentPipeline.xml
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 30
+Author: Paul Booth
+Date: 10:34:31 PM, Monday, July 21, 2008
+Message:
+
+----
+Deleted : /trunk/wizard-wars/MovingSprite.cs
+
+Revision: 29
+Author: Paul Booth
+Date: 10:27:33 PM, Monday, July 21, 2008
+Message:
+
+----
+Deleted : /trunk/wizard-wars/bob.txt
+
+Revision: 28
+Author: Paul Booth
+Date: 10:26:34 PM, Monday, July 21, 2008
+Message:
+Changed Physics engine...
+----
+Modified : /trunk/wizard-wars/Content/obj/Content.contentproj.FileListAbsolute.txt
+Modified : /trunk/wizard-wars/Content/obj/x86/Debug/ContentPipeline.xml
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Player.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.pdb
+Modified : /trunk/wizard-wars/obj/WindowsGame1.csproj.FileListAbsolute.txt
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.pdb
+
+Revision: 27
+Author: Ben Jann
+Date: 3:37:56 PM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Added : /trunk/wizard-wars/Player.cs
+Added : /trunk/wizard-wars/Projectile.cs
+
+Revision: 26
+Author: Ben Jann
+Date: 3:28:35 PM, Monday, July 21, 2008
+Message:
+player class is exist
+----
+Modified : /trunk/wizard-wars/Content/obj/Content.contentproj.FileListAbsolute.txt
+Modified : /trunk/wizard-wars/Content/obj/x86/Debug/ContentPipeline.xml
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/obj/WindowsGame1.csproj.FileListAbsolute.txt
+
+Revision: 25
+Author: Nick Maffei
+Date: 3:27:25 PM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/bob.txt
+
+Revision: 24
+Author: Nick Maffei
+Date: 3:21:25 PM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/bob.txt
+
+Revision: 23
+Author: Jonathan Paulson
+Date: 3:07:08 PM, Monday, July 21, 2008
+Message:
+Added Platform Physics
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.pdb
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.pdb
+
+Revision: 22
+Author: Jonathan Paulson
+Date: 1:44:20 PM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/MovingSprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.pdb
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.pdb
+
+Revision: 21
+Author: Nick Maffei
+Date: 11:32:48 AM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 20
+Author: Nick Maffei
+Date: 11:00:29 AM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Content/obj/Content.contentproj.FileListAbsolute.txt
+Modified : /trunk/wizard-wars/Content/obj/x86/Debug/ContentPipeline.xml
+Modified : /trunk/wizard-wars/MovingSprite.cs
+Modified : /trunk/wizard-wars/Program.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+Modified : /trunk/wizard-wars/WindowsGame1.csproj
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.pdb
+Modified : /trunk/wizard-wars/obj/WindowsGame1.csproj.FileListAbsolute.txt
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.exe
+Modified : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.pdb
+
+Revision: 19
+Author: Nick Maffei
+Date: 10:55:47 AM, Monday, July 21, 2008
+Message:
+project file
+----
+Added : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 18
+Author: Nick Maffei
+Date: 10:53:44 AM, Monday, July 21, 2008
+Message:
+
+----
+Modified : /trunk/wizard-wars/Content/Thumbs.db
+Added : /trunk/wizard-wars/GravitySprite.cs
+Added : /trunk/wizard-wars/MovingSprite.cs
+Added : /trunk/wizard-wars/Platform.cs
+Added : /trunk/wizard-wars/Program.cs
+Added : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 17
+Author: Nick Maffei
+Date: 10:50:57 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Content
+Added : /trunk/wizard-wars/Content/Content.contentproj
+Added : /trunk/wizard-wars/Content/GameThumbnail.png
+Added : /trunk/wizard-wars/Content/SpriteFont1.spritefont
+Added : /trunk/wizard-wars/Content/Thumbs.db
+Added : /trunk/wizard-wars/Content/bin
+Added : /trunk/wizard-wars/Content/bin/x86
+Added : /trunk/wizard-wars/Content/bin/x86/Debug
+Added : /trunk/wizard-wars/Content/bin/x86/Release
+Added : /trunk/wizard-wars/Content/black.JPG
+Added : /trunk/wizard-wars/Content/explosion.jpg
+Added : /trunk/wizard-wars/Content/green.JPG
+Added : /trunk/wizard-wars/Content/mario.jpg
+Added : /trunk/wizard-wars/Content/moving.JPG
+Added : /trunk/wizard-wars/Content/obj
+Added : /trunk/wizard-wars/Content/obj/Content.contentproj.FileListAbsolute.txt
+Added : /trunk/wizard-wars/Content/obj/x86
+Added : /trunk/wizard-wars/Content/obj/x86/Debug
+Added : /trunk/wizard-wars/Content/obj/x86/Debug/ContentPipeline.xml
+Added : /trunk/wizard-wars/Content/obj/x86/Debug/Refactor
+Added : /trunk/wizard-wars/Content/obj/x86/Debug/ResolveAssemblyReference.cache
+Added : /trunk/wizard-wars/Content/obj/x86/Debug/TempPE
+Added : /trunk/wizard-wars/Content/obj/x86/Release
+Added : /trunk/wizard-wars/Content/obj/x86/Release/TempPE
+Added : /trunk/wizard-wars/Content/stationary.JPG
+Added : /trunk/wizard-wars/Game.ico
+Added : /trunk/wizard-wars/GameThumbnail.png
+Added : /trunk/wizard-wars/Properties
+Added : /trunk/wizard-wars/Properties/AssemblyInfo.cs
+Added : /trunk/wizard-wars/Sprite.cs
+Added : /trunk/wizard-wars/WizardWars.cs
+Added : /trunk/wizard-wars/bin
+Added : /trunk/wizard-wars/bin/x86
+Added : /trunk/wizard-wars/bin/x86/Debug
+Added : /trunk/wizard-wars/bin/x86/Debug/Content
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/GameThumbnail.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/black.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/explosion.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/font.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/green.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/mario.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/moving.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/Content/stationary.xnb
+Added : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.duo
+Added : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.exe
+Added : /trunk/wizard-wars/bin/x86/Debug/WindowsGame1.pdb
+Added : /trunk/wizard-wars/bin/x86/Release
+Added : /trunk/wizard-wars/obj
+Added : /trunk/wizard-wars/obj/WindowsGame1.csproj.FileListAbsolute.txt
+Added : /trunk/wizard-wars/obj/WizardWars.csproj.FileListAbsolute.txt
+Added : /trunk/wizard-wars/obj/x86
+Added : /trunk/wizard-wars/obj/x86/Debug
+Added : /trunk/wizard-wars/obj/x86/Debug/Microsoft.Xna.Framework.RuntimeProfile.txt
+Added : /trunk/wizard-wars/obj/x86/Debug/Refactor
+Added : /trunk/wizard-wars/obj/x86/Debug/ResolveAssemblyReference.cache
+Added : /trunk/wizard-wars/obj/x86/Debug/TempPE
+Added : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.exe
+Added : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+Added : /trunk/wizard-wars/obj/x86/Debug/WindowsGame1.pdb
+Added : /trunk/wizard-wars/obj/x86/Debug/WizardWars.obj.x86.Debug.Microsoft.Xna.Framework.RuntimeProfile.txt
+Added : /trunk/wizard-wars/obj/x86/Release
+Added : /trunk/wizard-wars/obj/x86/Release/TempPE
+
+Revision: 16
+Author: Nick Maffei
+Date: 10:50:20 AM, Monday, July 21, 2008
+Message:
+
+----
+Deleted : /trunk/wizard-wars/WizardWars.csproj
+
+Revision: 15
+Author: Nick Maffei
+Date: 10:50:10 AM, Monday, July 21, 2008
+Message:
+
+----
+Deleted : /trunk/wizard-wars/GravitySprite.cs
+Deleted : /trunk/wizard-wars/MovingSprite.cs
+Deleted : /trunk/wizard-wars/Platform.cs
+Deleted : /trunk/wizard-wars/Program.cs
+Deleted : /trunk/wizard-wars/StationarySprite.cs
+Deleted : /trunk/wizard-wars/WindowsGame1.csproj
+Deleted : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 14
+Author: Nick Maffei
+Date: 10:50:06 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/WizardWars.csproj
+
+Revision: 13
+Author: Nick Maffei
+Date: 10:48:49 AM, Monday, July 21, 2008
+Message:
+This is the first version
+----
+Modified : /trunk/wizard-wars/GravitySprite.cs
+Modified : /trunk/wizard-wars/MovingSprite.cs
+Modified : /trunk/wizard-wars/Platform.cs
+Modified : /trunk/wizard-wars/Program.cs
+Modified : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 12
+Author: Nick Maffei
+Date: 10:45:36 AM, Monday, July 21, 2008
+Message:
+Platform now inherits from stationary sprite
+----
+Modified : /trunk/wizard-wars/Platform.cs
+
+Revision: 11
+Author: Nick Maffei
+Date: 10:43:58 AM, Monday, July 21, 2008
+Message:
+This is the game
+----
+Added : /trunk/wizard-wars/WizardWars.cs
+
+Revision: 10
+Author: Nick Maffei
+Date: 10:35:26 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/GravitySprite.cs
+
+Revision: 9
+Author: Nick Maffei
+Date: 10:31:07 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/WindowsGame1.csproj
+
+Revision: 8
+Author: Nick Maffei
+Date: 10:30:57 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/StationarySprite.cs
+
+Revision: 7
+Author: Nick Maffei
+Date: 10:29:04 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Program.cs
+
+Revision: 6
+Author: Nick Maffei
+Date: 10:22:05 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/Platform.cs
+
+Revision: 5
+Author: Nick Maffei
+Date: 10:21:50 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars/MovingSprite.cs
+
+Revision: 4
+Author: Nick Maffei
+Date: 10:20:59 AM, Monday, July 21, 2008
+Message:
+
+----
+Added : /trunk/wizard-wars
+

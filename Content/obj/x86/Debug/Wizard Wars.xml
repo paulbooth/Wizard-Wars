@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2924456616;
+    Bank Last Revised High = 29946454;
+
+    Wave
+    {
+        Name = Blubup-Public_D-2;
+        File = Music\Menu\Blubup-Public_D-2.wav;
+        Build Settings Last Modified Low = 3287632484;
+        Build Settings Last Modified High = 29946446;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 5494;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3587358208;
+            Last Modified High = 29381952;
+        }
+    }
+
+    Wave
+    {
+        Name = Button_C-J_Fairba-8446;
+        File = Music\Menu\Button_C-J_Fairba-8446.wav;
+        Build Settings Last Modified Low = 3374038734;
+        Build Settings Last Modified High = 29946446;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 25288;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1391481856;
+            Last Modified High = 29721639;
+        }
+    }
+
+    Wave
+    {
+        Name = The Mystery of the Wizards;
+        File = Music\Menu\The Mystery of the Wizards.wav;
+        Build Settings Last Modified Low = 450165188;
+        Build Settings Last Modified High = 29946447;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 7056000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1861970650;
+            Last Modified High = 29945475;
+        }
+    }
+
+    Wave
+    {
+        Name = Battle;
+        File = Music\Battle.wav;
+        Build Settings Last Modified Low = 502196438;
+        Build Settings Last Modified High = 29946447;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 58;
+            Play Region Length = 2940000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3861538734;
+            Last Modified High = 29946446;
+        }
+    }
+
+    Wave
+    {
+        Name = booom-Public_D-21;
+        File = Music\booom-Public_D-21.wav;
+        Build Settings Last Modified Low = 2855706616;
+        Build Settings Last Modified High = 29946454;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 25536;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3847358208;
+            Last Modified High = 29381952;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

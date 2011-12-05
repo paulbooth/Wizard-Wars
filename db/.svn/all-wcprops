@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/234/trunk/wizard-wars/db
+END
+txn-current-lock
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/234/trunk/wizard-wars/db/txn-current-lock
+END
+write-lock
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/234/trunk/wizard-wars/db/write-lock
+END
+current
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/234/trunk/wizard-wars/db/current
+END
+uuid
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/234/trunk/wizard-wars/db/uuid
+END
+fs-type
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/234/trunk/wizard-wars/db/fs-type
+END
+format
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/234/trunk/wizard-wars/db/format
+END
+txn-current
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/234/trunk/wizard-wars/db/txn-current
+END

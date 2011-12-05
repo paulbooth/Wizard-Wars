@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/224/trunk/wizard-wars/Projectiles
+END
+SpeedBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/SpeedBall.cs
+END
+PortalBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/PortalBall.cs
+END
+WindBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/trunk/wizard-wars/Projectiles/WindBall.cs
+END
+LightningBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/LightningBall.cs
+END
+Projectile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/Projectile.cs
+END
+fireball.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/222/trunk/wizard-wars/Projectiles/fireball.cs
+END
+TStopBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/209/trunk/wizard-wars/Projectiles/TStopBall.cs
+END
+ReverseBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/ReverseBall.cs
+END
+Particles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/224/trunk/wizard-wars/Projectiles/Particles.cs
+END
+stalagball.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/stalagball.cs
+END
+HeavyBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/HeavyBall.cs
+END
+pitball.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/wizard-wars/Projectiles/pitball.cs
+END
+smokeBall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/222/trunk/wizard-wars/Projectiles/smokeBall.cs
+END

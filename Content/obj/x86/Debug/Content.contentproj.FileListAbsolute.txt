@@ -1,0 +1,2 @@
+C:\paul\programming\C#\WizardWars\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\paul\programming\C#\WizardWars\Content\obj\x86\Debug\Wizard Wars.xml

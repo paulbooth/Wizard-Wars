@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/233/trunk/wizard-wars/Wizards
+END
+GravitySprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/152/trunk/wizard-wars/Wizards/GravitySprite.cs
+END
+AirWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/171/trunk/wizard-wars/Wizards/AirWizard.cs
+END
+Player.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/233/trunk/wizard-wars/Wizards/Player.cs
+END
+TimeWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/188/trunk/wizard-wars/Wizards/TimeWizard.cs
+END
+Direction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/153/trunk/wizard-wars/Wizards/Direction.cs
+END
+PortalWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/171/trunk/wizard-wars/Wizards/PortalWizard.cs
+END
+earthWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/wizard-wars/Wizards/earthWizard.cs
+END
+GravityWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/wizard-wars/Wizards/GravityWizard.cs
+END
+fireWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/180/trunk/wizard-wars/Wizards/fireWizard.cs
+END

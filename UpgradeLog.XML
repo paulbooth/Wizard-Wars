@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Wizard Wars">
+</Property><Property Name="Solution File" Value="C:\paul\programming\C#\WizardWars\Wizard Wars.sln">
+</Property><Property Name="Date" Value="Monday, November 09, 2009">
+</Property><Property Name="Time" Value="11:35:12 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Project file successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizard Wars.csproj">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\SmokeArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\SmokeArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="AudioManager.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\AudioManager.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Menu.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Menu.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\smokeBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\smokeBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\GameScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\ScreenManager\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\InputState.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\ScreenManager\InputState.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\ScreenManager.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\ScreenManager\ScreenManager.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\AirWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\AirWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\EarthWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\EarthWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\EndingScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\EndingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\FireWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\FireWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\GravityWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\GravityWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\InstructionsMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\InstructionsMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\PortalWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\PortalWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\TimeWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\TimeWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\AirWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\AirWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\Area.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\Area.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\BackgroundScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\BackgroundScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\Direction.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\Direction.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Dweomer.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Other Game Objects\Dweomer.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\EarthWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\EarthWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\fireball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\fireball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\fireWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\fireWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\GravitySprite.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\GravitySprite.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\GravityWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\GravityWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Ground.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Other Game Objects\Ground.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\HeavyArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\HeavyArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\HeavyBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\HeavyBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\LightningBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\LightningBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\LoadingScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\LoadingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MainMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\MainMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MenuEntry.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\MenuEntry.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\MenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MessageBoxScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\MessageBoxScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\OptionsMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\OptionsMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\Particles.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\Particles.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\PauseMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\PauseMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\pitball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\pitball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Platform.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Other Game Objects\Platform.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\Player.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\Player.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\PortalArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\PortalArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\PortalBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\PortalBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\PortalWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\PortalWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\Projectile.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\Projectile.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\ReverseArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\ReverseArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\ReverseBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\ReverseBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\SpeedArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\SpeedArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\SpeedBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\SpeedBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\stalagball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\stalagball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\StationarySprite.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Other Game Objects\StationarySprite.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\TimeWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Wizards\TimeWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\TStopArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\TStopArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\TStopBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\TStopBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\WindArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Areas\WindArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\WindBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Projectiles\WindBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\WizardWars.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Screens\WizardWars.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Game.ico" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="GameThumbnail.png" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Converted">
+</Event></UpgradeLog>

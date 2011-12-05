@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Wizard Wars">
+</Property><Property Name="Solution File" Value="C:\paul\programming\C#\WizardWars\Wizard Wars.sln">
+</Property><Property Name="Date" Value="Monday, November 09, 2009">
+</Property><Property Name="Time" Value="11:40:52 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Project file successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizard Wars.csproj">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\SmokeArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\SmokeArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="AudioManager.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\AudioManager.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Menu.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Menu.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\smokeBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\smokeBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\GameScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\ScreenManager\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\InputState.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\ScreenManager\InputState.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="ScreenManager\ScreenManager.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\ScreenManager\ScreenManager.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\AirWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\AirWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\EarthWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\EarthWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\EndingScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\EndingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\FireWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\FireWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\GravityWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\GravityWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\InstructionsMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\InstructionsMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\PortalWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\PortalWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\TimeWizardInfoScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\TimeWizardInfoScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\AirWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\AirWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\Area.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\Area.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\BackgroundScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\BackgroundScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\Direction.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\Direction.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Dweomer.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Other Game Objects\Dweomer.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\EarthWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\EarthWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\fireball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\fireball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\fireWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\fireWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\GravitySprite.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\GravitySprite.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\GravityWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\GravityWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Ground.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Other Game Objects\Ground.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\HeavyArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\HeavyArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\HeavyBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\HeavyBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\LightningBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\LightningBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\LoadingScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\LoadingScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MainMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\MainMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MenuEntry.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\MenuEntry.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\MenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\MessageBoxScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\MessageBoxScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\OptionsMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\OptionsMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\Particles.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\Particles.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\PauseMenuScreen.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\PauseMenuScreen.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\pitball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\pitball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\Platform.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Other Game Objects\Platform.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\Player.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\Player.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\PortalArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\PortalArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\PortalBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\PortalBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\PortalWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\PortalWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\Projectile.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\Projectile.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\ReverseArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\ReverseArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\ReverseBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\ReverseBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\SpeedArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\SpeedArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\SpeedBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\SpeedBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\stalagball.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\stalagball.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Other Game Objects\StationarySprite.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Other Game Objects\StationarySprite.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizards\TimeWizard.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Wizards\TimeWizard.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\TStopArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\TStopArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\TStopBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\TStopBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Areas\WindArea.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Areas\WindArea.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Projectiles\WindBall.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Projectiles\WindBall.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Screens\WizardWars.cs" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Screens\WizardWars.cs">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Game.ico" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\Game.ico">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="GameThumbnail.png" Description="File successfully backed up as C:\paul\programming\C#\WizardWars\Backup1\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Wizard Wars" Source="Wizard Wars.csproj" Description="Upgraded XNA Framework references to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Content" Source="arrow.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background1.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="black.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="blank.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="bomb.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="brickplatform copy.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="clock.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dirtball.PNG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dweomer.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="explosion.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireeffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="GameThumbnail.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gradient.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="grass.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="graveffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gravityball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="green.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="iceeffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf1.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf3.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf4.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightning.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightningball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mario.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="menu.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="metallic platform copy.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="moving.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal1.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="red.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="reversearrow.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="smoke.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="stationary.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Stun.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="timebox.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="waterball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="watereffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="windball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wizard.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wooden platform.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="arrow.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background1.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="black.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="blank.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="bomb.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="brickplatform copy.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="clock.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dirtball.PNG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dweomer.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="explosion.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireeffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="GameThumbnail.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gradient.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="grass.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="graveffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gravityball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="green.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="iceeffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf1.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf3.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf4.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightning.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightningball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mario.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="menu.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="metallic platform copy.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="moving.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal1.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball2.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="red.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="reversearrow.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="smoke.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont1.spritefont.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont2.spritefont.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont3.spritefont.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="stationary.JPG.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Stun.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="timebox.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="waterball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="watereffect.bmp.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="windball.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Wizard Wars.xap.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wizard.png.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wooden platform.jpg.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dir-prop-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Battle.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="booom-Public_D-21.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Battle.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="booom-Public_D-21.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Blubup-Public_D-2.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Button_C-J_Fairba-8446.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Dink-Public_D-146.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="The Mystery of the Wizards.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Blubup-Public_D-2.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Button_C-J_Fairba-8446.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Dink-Public_D-146.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="The Mystery of the Wizards.wav.svn-base" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="all-wcprops" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="entries" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Blubup-Public_D-2.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Button_C-J_Fairba-8446.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Dink-Public_D-146.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="The Mystery of the Wizards.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Battle.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="booom-Public_D-21.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="arrow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="background1.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="black.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="blank.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="bomb.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="brickplatform copy.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="clock.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dirtball.PNG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="dweomer.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="explosion.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="fireeffect.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="GameThumbnail.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gradient.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="grass.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="graveffect.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="gravityball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="green.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="iceeffect.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="leaf4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightning.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="lightningball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="mario.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="menu.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="metallic platform copy.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="moving.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portal2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="portalball2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="red.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="reversearrow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="smoke.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont1.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont2.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SpriteFont3.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="stationary.JPG" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Stun.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="timebox.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="waterball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="watereffect.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="windball.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Wizard Wars.xap" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wizard.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="wooden platform.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event></UpgradeLog>

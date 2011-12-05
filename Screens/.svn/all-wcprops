@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/229/trunk/wizard-wars/Screens
+END
+LoadingScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/197/trunk/wizard-wars/Screens/LoadingScreen.cs
+END
+BackgroundScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/165/trunk/wizard-wars/Screens/BackgroundScreen.cs
+END
+OptionsMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/197/trunk/wizard-wars/Screens/OptionsMenuScreen.cs
+END
+gravitywizardinfoscreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/gravitywizardinfoscreen.cs
+END
+firewizardinfoscreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/firewizardinfoscreen.cs
+END
+MenuEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/166/trunk/wizard-wars/Screens/MenuEntry.cs
+END
+InstructionsMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/225/trunk/wizard-wars/Screens/InstructionsMenuScreen.cs
+END
+TimeWizardInfoScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/TimeWizardInfoScreen.cs
+END
+timewizardinfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/191/trunk/wizard-wars/Screens/timewizardinfo.cs
+END
+MessageBoxScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/152/trunk/wizard-wars/Screens/MessageBoxScreen.cs
+END
+WizardWars.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/229/trunk/wizard-wars/Screens/WizardWars.cs
+END
+portalwizardinfoscreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/portalwizardinfoscreen.cs
+END
+earthwizardinfoscreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/earthwizardinfoscreen.cs
+END
+PauseMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/152/trunk/wizard-wars/Screens/PauseMenuScreen.cs
+END
+EndingScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/wizard-wars/Screens/EndingScreen.cs
+END
+MenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/228/trunk/wizard-wars/Screens/MenuScreen.cs
+END
+AirWizardInfoScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/wizard-wars/Screens/AirWizardInfoScreen.cs
+END
+MainMenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/224/trunk/wizard-wars/Screens/MainMenuScreen.cs
+END

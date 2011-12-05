@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/234/trunk/wizard-wars/hooks
+END
+pre-revprop-change.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/pre-revprop-change.tmpl
+END
+post-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/post-commit.tmpl
+END
+post-lock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/post-lock.tmpl
+END
+pre-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/pre-commit.tmpl
+END
+pre-lock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/pre-lock.tmpl
+END
+post-unlock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/post-unlock.tmpl
+END
+pre-unlock.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/pre-unlock.tmpl
+END
+post-revprop-change.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/post-revprop-change.tmpl
+END
+start-commit.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/wizard-wars/hooks/start-commit.tmpl
+END

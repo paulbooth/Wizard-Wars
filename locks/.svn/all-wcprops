@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/234/trunk/wizard-wars/locks
+END
+db.lock
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/234/trunk/wizard-wars/locks/db.lock
+END
+db-logs.lock
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/234/trunk/wizard-wars/locks/db-logs.lock
+END

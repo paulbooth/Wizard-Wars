@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="WizardWars.Area" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\Area.cs</FileName>
+      <HashCode>gAIEAQAAAAAAEAAAAAIAQAAEAAAAQAABBAACAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.HeavyArea" Collapsed="true">
+    <Position X="1.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\HeavyArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.PortalArea" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\PortalArea.cs</FileName>
+      <HashCode>AIAAAAAAAAAAAAAAAQIAAAAAAAwAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.ReverseArea" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\ReverseArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.SmokeArea" Collapsed="true">
+    <Position X="6.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\SmokeArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAIAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.SpeedArea" Collapsed="true">
+    <Position X="8.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\SpeedArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.TStopArea" Collapsed="true">
+    <Position X="10.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\TStopArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.WindArea" Collapsed="true">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Areas\WindArea.cs</FileName>
+      <HashCode>AAAEAAAAAAAAEAAAAAIAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.AudioManager" Collapsed="true">
+    <Position X="60.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AudioManager.cs</FileName>
+      <HashCode>AIQAAAAAACAEAQBAAAAAAEEAAAAAAAAAAAQAAiAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Menu" Collapsed="true">
+    <Position X="60.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Menu.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAEAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Program" Collapsed="true">
+    <Position X="60.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Menu.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Dweomer" Collapsed="true">
+    <Position X="19.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Other Game Objects\Dweomer.cs</FileName>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Ground" Collapsed="true">
+    <Position X="62.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Other Game Objects\Ground.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Platform" Collapsed="true">
+    <Position X="17.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Other Game Objects\Platform.cs</FileName>
+      <HashCode>AAAQAAEAAAAAAoAAAQIIAAIAAACAQAAAAAAAgAhAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.StationarySprite" Collapsed="true">
+    <Position X="29.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Other Game Objects\StationarySprite.cs</FileName>
+      <HashCode>AAAAAAAAACAAEAAAAAIAAIAAAECAACAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.FireBall" Collapsed="true">
+    <Position X="42.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\fireball.cs</FileName>
+      <HashCode>AAgCAAAAAABAAAAACAAQAAEAAgAAAAAgAAABAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.HeavyBall" Collapsed="true">
+    <Position X="22" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\HeavyBall.cs</FileName>
+      <HashCode>AAAAAAEAAABAAAAACAAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.LightningBall" Collapsed="true">
+    <Position X="26.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\LightningBall.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACQAAAAIAAAAAAEAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Particles" Collapsed="true">
+    <Position X="64" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\Particles.cs</FileName>
+      <HashCode>CCAAABBAAAAAAAAAAAAAAIgAAAAgQgAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.pitball" Collapsed="true">
+    <Position X="33.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\pitball.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACAAQAAEAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.PortalBall" Collapsed="true">
+    <Position X="37.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\PortalBall.cs</FileName>
+      <HashCode>AAAAAAEAAABAAAAACAAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Projectile" Collapsed="true">
+    <Position X="33.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\Projectile.cs</FileName>
+      <HashCode>AAACAAAAACAQEAAACAIAAAAGBAEAQAgAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.ReverseBall" Collapsed="true">
+    <Position X="40" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\ReverseBall.cs</FileName>
+      <HashCode>AAAAAAEAAABAAAAACAAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.SmokeBall" Collapsed="true">
+    <Position X="44.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\smokeBall.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACQAQAAAAAAAAAAAgAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.SpeedBall" Collapsed="true">
+    <Position X="24.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\SpeedBall.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACQAAAAIAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.stalagball" Collapsed="true">
+    <Position X="28.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\stalagball.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACAAQAAEAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.TStopBall" Collapsed="true">
+    <Position X="31" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\TStopBall.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACQAAAAIAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.WindBall" Collapsed="true">
+    <Position X="35.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Projectiles\WindBall.cs</FileName>
+      <HashCode>AAAAAAAAAABAAAAACQAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.GameScreen" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+      <HashCode>AAwAEACAAARAAgAEEAIAAAAADAAAAA4AAgAGAEYIBAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.InputState" Collapsed="true">
+    <Position X="64" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ScreenManager\InputState.cs</FileName>
+      <HashCode>AA4AAUgAAIAAEACAQAAAQAAFIAAAAAEAACAAABAAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.ScreenManager" Collapsed="true">
+    <Position X="62.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ScreenManager\ScreenManager.cs</FileName>
+      <HashCode>AAYAVEAgAAAgAwAAAAAAAAAAAAAAiBAERAAAgAACCEQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.AirWizardInfoScreen" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\AirWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.BackgroundScreen" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\BackgroundScreen.cs</FileName>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.EarthWizardInfoScreen" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\EarthWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.EndingScreen" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\EndingScreen.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.FireWizardInfoScreen" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\FireWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.GravityWizardInfoScreen" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\GravityWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.InstructionsMenuScreen" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\InstructionsMenuScreen.cs</FileName>
+      <HashCode>AAABAAkAAAgBAgAAAAAAAEAAAAAAAAEABAEAICAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.LoadingScreen" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\LoadingScreen.cs</FileName>
+      <HashCode>ABQAgAAAAAAAAgAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.MainMenuScreen" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\MainMenuScreen.cs</FileName>
+      <HashCode>AAAAAiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.MenuEntry" Collapsed="true">
+    <Position X="62.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\MenuEntry.cs</FileName>
+      <HashCode>AAQAAgAAAAgAAgAAAAAABABAAAAAAAAIAAAACAQAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.MenuScreen" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\MenuScreen.cs</FileName>
+      <HashCode>AQQCACGAAAAAAgAAAAAAgAAAAAAAAAgAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.MessageBoxScreen" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\MessageBoxScreen.cs</FileName>
+      <HashCode>AAAAQQCAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.OptionsMenuScreen" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\OptionsMenuScreen.cs</FileName>
+      <HashCode>ACARRIEDCAAAAsGgAEIaAGCAIAAAAwIAASMKAQEACik=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.PauseMenuScreen" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\PauseMenuScreen.cs</FileName>
+      <HashCode>EAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.PortalWizardInfoScreen" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\PortalWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.TimeWizardInfoScreen" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\TimeWizardInfoScreen.cs</FileName>
+      <HashCode>AAAAAAEAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.WizardWars" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Screens\WizardWars.cs</FileName>
+      <HashCode>CAYCEEAADECAhjEACAKAAYAAiACAQgiCIZBQBMgCJYQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.AirWizard" Collapsed="true">
+    <Position X="49" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\AirWizard.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.EarthWizard" Collapsed="true">
+    <Position X="53.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\EarthWizard.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.FireWizard" Collapsed="true">
+    <Position X="55.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\fireWizard.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAAAAAAICAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.GravitySprite" Collapsed="true">
+    <Position X="38.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\GravitySprite.cs</FileName>
+      <HashCode>AAABAABAAAIQAAAAAEAAAAAAAAAEAQAIABEAAIIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.GravityWizard" Collapsed="true">
+    <Position X="58" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\GravityWizard.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.Player" Collapsed="true">
+    <Position X="52.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\Player.cs</FileName>
+      <HashCode>AAAAAIABAAAAAEQAAAMIIAAACAEAUAgAAAABCFAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.PortalWizard" Collapsed="true">
+    <Position X="46.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\PortalWizard.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WizardWars.TimeWizard" Collapsed="true">
+    <Position X="51.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\TimeWizard.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WizardWars.ScreenState" Collapsed="true">
+    <Position X="62.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WizardWars.Direction" Collapsed="true">
+    <Position X="60.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wizards\Direction.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

@@ -1,0 +1,3 @@
+Content\Wizard Wars.xgs
+Content\Wave Bank.xwb
+Content\Sound Bank.xsb
